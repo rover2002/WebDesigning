@@ -29,8 +29,8 @@
  <p>I like to write <abbr title="Hypertext Markup Language">HTML</abbr>!</p>
 
  <s>Struck-through text here</s>
- <del>Deleted Text</del>
- <ins>New Text</ins>
+  <del>Deleted Text</del>
+  <ins>New Text</ins>
 
 <sup>superscript here</sup>
  <sub>subscript here</sub>
