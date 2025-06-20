@@ -14,3 +14,23 @@
 
 <h2>In coclusion</h2>
 <p>Paragraph</p>
+
+ <p>This is a paragraph.("p" is stand for paragraph)</p>
+ <p>This is another paragraph.</p>
+
+<strong>Bold Text Here("strong" is used for bold text)</strong>
+<b>Bold Text Here("b" is used for bold text)</b>
+
+<em>Italicized Text Here)</em>
+<i>Italicized Text Here</i>
+
+ <p>This paragraph contains some <u>mispelled</u> text.</p>
+
+ <p>I like to write <abbr title="Hypertext Markup Language">HTML</abbr>!</p>
+
+ <s>Struck-through text here</s>
+ <del>Deleted Text</del>
+ <ins>New Text</ins>
+
+<sup>superscript here</sup>
+ <sub>subscript here</sub>
